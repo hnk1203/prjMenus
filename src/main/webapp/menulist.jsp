@@ -36,7 +36,7 @@ for (int i = 0; i < menuList.size(); i++) {
 			<td>Menu_id</td>
 			<td>Menu_name</td>
 			<td>Menu_seq</td>
-			<td>sdasd</td>
+			<td></td>
 			<td></td>
 		</tr>
 		<tr>
